@@ -1,5 +1,5 @@
 class script(object):  
-    START_TXT = """<b>✨ konn'chiwa {user}.
+    START_TXT = """<b>✨ Hello {user}.
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
